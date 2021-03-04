@@ -1,8 +1,4 @@
-/***********
- * bandA.js
- * M. Laszlo
- * January 2020
- ***********/
+
 
 let camera, scene, renderer;
 let cameraControls;
